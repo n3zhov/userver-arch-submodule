@@ -1,3 +1,6 @@
+Userver with patch applied to build on archlinux
+Created to use in other local porjects as submodule
+
 # userver <img src="./scripts/docs/logo.svg" align='right' width="30%">
 
 **userver** is an open source asynchronous framework with a rich set of abstractions
